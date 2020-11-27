@@ -1,0 +1,1175 @@
+Estimating for Chile: NK-foreign VAR model & muq not zero
+Number of simulations: 2000000 draws
+mh scale: 0.05
+rng (3,twister)
+Initial model Log likelihood
+  -2.1361e+03
+
+20000 draws saved
+Elapsed time is 2038.491962 seconds.
+completion rate (%): 1
+acceptance rate (%): 14.035
+indeterminancy rate (%): 39.285
+rate of invalid likelihood (%): 0
+
+time =
+
+        2019           8          20          13          49          51
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+40000 draws saved
+Elapsed time is 3933.271500 seconds.
+completion rate (%): 2
+acceptance rate (%): 13.82
+indeterminancy rate (%): 35.645
+rate of invalid likelihood (%): 0.005
+
+time =
+
+        2019           8          20          14          21          26
+
+60000 draws saved
+Elapsed time is 5602.762612 seconds.
+completion rate (%): 3
+acceptance rate (%): 14.0633
+indeterminancy rate (%): 32.6133
+rate of invalid likelihood (%): 0.0033333
+
+time =
+
+        2019           8          20          14          49          15
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+80000 draws saved
+Elapsed time is 7189.036418 seconds.
+completion rate (%): 4
+acceptance rate (%): 13.5538
+indeterminancy rate (%): 30.0513
+rate of invalid likelihood (%): 0.02625
+
+time =
+
+        2019           8          20          15          15          42
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+100000 draws saved
+Elapsed time is 8801.065445 seconds.
+completion rate (%): 5
+acceptance rate (%): 12.848
+indeterminancy rate (%): 29.309
+rate of invalid likelihood (%): 0.04
+
+time =
+
+        2019           8          20          15          42          34
+
+120000 draws saved
+Elapsed time is 10520.735397 seconds.
+completion rate (%): 6
+acceptance rate (%): 12.6158
+indeterminancy rate (%): 29.2908
+rate of invalid likelihood (%): 0.033333
+
+time =
+
+        2019           8          20          16          11          14
+
+140000 draws saved
+Elapsed time is 12052.173844 seconds.
+completion rate (%): 7
+acceptance rate (%): 12.4929
+indeterminancy rate (%): 27.9186
+rate of invalid likelihood (%): 0.028571
+
+time =
+
+        2019           8          20          16          36          45
+
+160000 draws saved
+Elapsed time is 13710.343184 seconds.
+completion rate (%): 8
+acceptance rate (%): 12.5738
+indeterminancy rate (%): 27.8469
+rate of invalid likelihood (%): 0.025
+
+time =
+
+        2019           8          20          17           4          23
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+180000 draws saved
+Elapsed time is 15388.779177 seconds.
+completion rate (%): 9
+acceptance rate (%): 12.4344
+indeterminancy rate (%): 27.4528
+rate of invalid likelihood (%): 0.026667
+
+time =
+
+        2019           8          20          17          32          22
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+200000 draws saved
+Elapsed time is 17020.523531 seconds.
+completion rate (%): 10
+acceptance rate (%): 12.516
+indeterminancy rate (%): 27.582
+rate of invalid likelihood (%): 0.0245
+
+time =
+
+        2019           8          20          17          59          33
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+220000 draws saved
+Elapsed time is 18614.461597 seconds.
+completion rate (%): 11
+acceptance rate (%): 12.5705
+indeterminancy rate (%): 27.6336
+rate of invalid likelihood (%): 0.022727
+
+time =
+
+        2019           8          20          18          26           7
+
+240000 draws saved
+Elapsed time is 20136.197428 seconds.
+completion rate (%): 12
+acceptance rate (%): 12.4754
+indeterminancy rate (%): 27.2496
+rate of invalid likelihood (%): 0.020833
+
+time =
+
+        2019           8          20          18          51          29
+
+260000 draws saved
+Elapsed time is 21594.262344 seconds.
+completion rate (%): 13
+acceptance rate (%): 12.4438
+indeterminancy rate (%): 26.5331
+rate of invalid likelihood (%): 0.019231
+
+time =
+
+        2019           8          20          19          15          47
+
+280000 draws saved
+Elapsed time is 23105.360201 seconds.
+completion rate (%): 14
+acceptance rate (%): 12.4004
+indeterminancy rate (%): 26.1518
+rate of invalid likelihood (%): 0.017857
+
+time =
+
+        2019           8          20          19          40          58
+
+300000 draws saved
+Elapsed time is 24682.626573 seconds.
+completion rate (%): 15
+acceptance rate (%): 12.411
+indeterminancy rate (%): 26.046
+rate of invalid likelihood (%): 0.016667
+
+time =
+
+        2019           8          20          20           7          16
+
+320000 draws saved
+Elapsed time is 26287.234509 seconds.
+completion rate (%): 16
+acceptance rate (%): 12.5291
+indeterminancy rate (%): 25.8766
+rate of invalid likelihood (%): 0.015625
+
+time =
+
+        2019           8          20          20          34           0
+
+340000 draws saved
+Elapsed time is 28216.270308 seconds.
+completion rate (%): 17
+acceptance rate (%): 12.5921
+indeterminancy rate (%): 25.5809
+rate of invalid likelihood (%): 0.014706
+
+time =
+
+        2019           8          20          21           6           9
+
+360000 draws saved
+Elapsed time is 30416.104547 seconds.
+completion rate (%): 18
+acceptance rate (%): 12.6061
+indeterminancy rate (%): 25.2322
+rate of invalid likelihood (%): 0.013889
+
+time =
+
+        2019           8          20          21          42          49
+
+380000 draws saved
+Elapsed time is 32775.504419 seconds.
+completion rate (%): 19
+acceptance rate (%): 12.6863
+indeterminancy rate (%): 25.0687
+rate of invalid likelihood (%): 0.013158
+
+time =
+
+        2019           8          20          22          22           9
+
+400000 draws saved
+Elapsed time is 34997.568851 seconds.
+completion rate (%): 20
+acceptance rate (%): 12.6533
+indeterminancy rate (%): 25.1148
+rate of invalid likelihood (%): 0.0125
+
+time =
+
+        2019           8          20          22          59          11
+
+420000 draws saved
+Elapsed time is 37453.916184 seconds.
+completion rate (%): 21
+acceptance rate (%): 12.5981
+indeterminancy rate (%): 25.4052
+rate of invalid likelihood (%): 0.011905
+
+time =
+
+        2019           8          20          23          40           7
+
+440000 draws saved
+Elapsed time is 39774.158260 seconds.
+completion rate (%): 22
+acceptance rate (%): 12.6293
+indeterminancy rate (%): 25.4423
+rate of invalid likelihood (%): 0.011364
+
+time =
+
+        2019           8          21           0          18          47
+
+460000 draws saved
+Elapsed time is 42190.195683 seconds.
+completion rate (%): 23
+acceptance rate (%): 12.7217
+indeterminancy rate (%): 25.5017
+rate of invalid likelihood (%): 0.01087
+
+time =
+
+        2019           8          21           0          59           4
+
+480000 draws saved
+Elapsed time is 44662.512999 seconds.
+completion rate (%): 24
+acceptance rate (%): 12.8263
+indeterminancy rate (%): 25.6583
+rate of invalid likelihood (%): 0.010417
+
+time =
+
+        2019           8          21           1          40          16
+
+500000 draws saved
+Elapsed time is 47128.530623 seconds.
+completion rate (%): 25
+acceptance rate (%): 12.994
+indeterminancy rate (%): 25.7358
+rate of invalid likelihood (%): 0.01
+
+time =
+
+        2019           8          21           2          21          22
+
+520000 draws saved
+Elapsed time is 49593.114896 seconds.
+completion rate (%): 26
+acceptance rate (%): 13.0379
+indeterminancy rate (%): 25.8448
+rate of invalid likelihood (%): 0.0096154
+
+time =
+
+        2019           8          21           3           2          27
+
+540000 draws saved
+Elapsed time is 52101.561708 seconds.
+completion rate (%): 27
+acceptance rate (%): 13.1641
+indeterminancy rate (%): 25.8874
+rate of invalid likelihood (%): 0.0092593
+
+time =
+
+        2019           8          21           3          44          15
+
+560000 draws saved
+Elapsed time is 54690.948770 seconds.
+completion rate (%): 28
+acceptance rate (%): 13.3152
+indeterminancy rate (%): 25.9748
+rate of invalid likelihood (%): 0.0089286
+
+time =
+
+        2019           8          21           4          27          25
+
+580000 draws saved
+Elapsed time is 57190.295337 seconds.
+completion rate (%): 29
+acceptance rate (%): 13.4441
+indeterminancy rate (%): 26.0653
+rate of invalid likelihood (%): 0.0086207
+
+time =
+
+        2019           8          21           5           9           4
+
+600000 draws saved
+Elapsed time is 59783.850783 seconds.
+completion rate (%): 30
+acceptance rate (%): 13.5568
+indeterminancy rate (%): 26.2268
+rate of invalid likelihood (%): 0.0083333
+
+time =
+
+        2019           8          21           5          52          18
+
+620000 draws saved
+Elapsed time is 62257.535823 seconds.
+completion rate (%): 31
+acceptance rate (%): 13.6726
+indeterminancy rate (%): 26.3134
+rate of invalid likelihood (%): 0.0080645
+
+time =
+
+        2019           8          21           6          33          31
+
+640000 draws saved
+Elapsed time is 64582.495815 seconds.
+completion rate (%): 32
+acceptance rate (%): 13.7631
+indeterminancy rate (%): 26.348
+rate of invalid likelihood (%): 0.0078125
+
+time =
+
+        2019           8          21           7          12          16
+
+660000 draws saved
+Elapsed time is 66810.421249 seconds.
+completion rate (%): 33
+acceptance rate (%): 13.8848
+indeterminancy rate (%): 26.3217
+rate of invalid likelihood (%): 0.0075758
+
+time =
+
+        2019           8          21           7          49          24
+
+680000 draws saved
+Elapsed time is 69320.463246 seconds.
+completion rate (%): 34
+acceptance rate (%): 14.0504
+indeterminancy rate (%): 26.1682
+rate of invalid likelihood (%): 0.0073529
+
+time =
+
+        2019           8          21           8          31          14
+
+700000 draws saved
+Elapsed time is 71787.589140 seconds.
+completion rate (%): 35
+acceptance rate (%): 14.1739
+indeterminancy rate (%): 26.0447
+rate of invalid likelihood (%): 0.0071429
+
+time =
+
+        2019           8          21           9          12          21
+
+720000 draws saved
+Elapsed time is 74274.511450 seconds.
+completion rate (%): 36
+acceptance rate (%): 14.2517
+indeterminancy rate (%): 25.9226
+rate of invalid likelihood (%): 0.0069444
+
+time =
+
+        2019           8          21           9          53          48
+
+740000 draws saved
+Elapsed time is 76800.746350 seconds.
+completion rate (%): 37
+acceptance rate (%): 14.3436
+indeterminancy rate (%): 25.8478
+rate of invalid likelihood (%): 0.0067568
+
+time =
+
+        2019           8          21          10          35          55
+
+760000 draws saved
+Elapsed time is 79327.884196 seconds.
+completion rate (%): 38
+acceptance rate (%): 14.4264
+indeterminancy rate (%): 25.8312
+rate of invalid likelihood (%): 0.0065789
+
+time =
+
+        2019           8          21          11          18           2
+
+780000 draws saved
+Elapsed time is 81865.345996 seconds.
+completion rate (%): 39
+acceptance rate (%): 14.5312
+indeterminancy rate (%): 25.7231
+rate of invalid likelihood (%): 0.0064103
+
+time =
+
+        2019           8          21          12           0          19
+
+800000 draws saved
+Elapsed time is 84422.592228 seconds.
+completion rate (%): 40
+acceptance rate (%): 14.6493
+indeterminancy rate (%): 25.68
+rate of invalid likelihood (%): 0.00625
+
+time =
+
+        2019           8          21          12          42          57
+
+820000 draws saved
+Elapsed time is 86966.790188 seconds.
+completion rate (%): 41
+acceptance rate (%): 14.8813
+indeterminancy rate (%): 25.5365
+rate of invalid likelihood (%): 0.0060976
+
+time =
+
+        2019           8          21          13          25          21
+
+840000 draws saved
+Elapsed time is 89494.088806 seconds.
+completion rate (%): 42
+acceptance rate (%): 15.0081
+indeterminancy rate (%): 25.5227
+rate of invalid likelihood (%): 0.0059524
+
+time =
+
+        2019           8          21          14           7          28
+
+860000 draws saved
+Elapsed time is 92090.211460 seconds.
+completion rate (%): 43
+acceptance rate (%): 15.1381
+indeterminancy rate (%): 25.4806
+rate of invalid likelihood (%): 0.005814
+
+time =
+
+        2019           8          21          14          50          44
+
+880000 draws saved
+Elapsed time is 94740.753341 seconds.
+completion rate (%): 44
+acceptance rate (%): 15.2764
+indeterminancy rate (%): 25.4453
+rate of invalid likelihood (%): 0.0056818
+
+time =
+
+        2019           8          21          15          34          55
+
+900000 draws saved
+Elapsed time is 97332.075039 seconds.
+completion rate (%): 45
+acceptance rate (%): 15.3703
+indeterminancy rate (%): 25.5258
+rate of invalid likelihood (%): 0.0055556
+
+time =
+
+        2019           8          21          16          18           6
+
+920000 draws saved
+Elapsed time is 99891.310603 seconds.
+completion rate (%): 46
+acceptance rate (%): 15.3991
+indeterminancy rate (%): 25.6757
+rate of invalid likelihood (%): 0.0054348
+
+time =
+
+        2019           8          21          17           0          46
+
+940000 draws saved
+Elapsed time is 102486.702884 seconds.
+completion rate (%): 47
+acceptance rate (%): 15.4529
+indeterminancy rate (%): 25.8081
+rate of invalid likelihood (%): 0.0053191
+
+time =
+
+        2019           8          21          17          44           1
+
+960000 draws saved
+Elapsed time is 105084.238827 seconds.
+completion rate (%): 48
+acceptance rate (%): 15.5442
+indeterminancy rate (%): 25.8408
+rate of invalid likelihood (%): 0.0052083
+
+time =
+
+        2019           8          21          18          27          19
+
+980000 draws saved
+Elapsed time is 107630.691673 seconds.
+completion rate (%): 49
+acceptance rate (%): 15.6334
+indeterminancy rate (%): 25.8539
+rate of invalid likelihood (%): 0.005102
+
+time =
+
+        2019           8          21          19           9          45
+
+1000000 draws saved
+Elapsed time is 110137.096365 seconds.
+completion rate (%): 50
+acceptance rate (%): 15.7005
+indeterminancy rate (%): 25.8396
+rate of invalid likelihood (%): 0.005
+
+time =
+
+        2019           8          21          19          51          32
+
+1020000 draws saved
+Elapsed time is 112708.959962 seconds.
+completion rate (%): 51
+acceptance rate (%): 15.7849
+indeterminancy rate (%): 25.8092
+rate of invalid likelihood (%): 0.004902
+
+time =
+
+        2019           8          21          20          34          24
+
+1040000 draws saved
+Elapsed time is 115245.208208 seconds.
+completion rate (%): 52
+acceptance rate (%): 15.8908
+indeterminancy rate (%): 25.7543
+rate of invalid likelihood (%): 0.0048077
+
+time =
+
+        2019           8          21          21          16          40
+
+1060000 draws saved
+Elapsed time is 117770.110036 seconds.
+completion rate (%): 53
+acceptance rate (%): 16.026
+indeterminancy rate (%): 25.6709
+rate of invalid likelihood (%): 0.004717
+
+time =
+
+        2019           8          21          21          58          45
+
+1080000 draws saved
+Elapsed time is 120374.177323 seconds.
+completion rate (%): 54
+acceptance rate (%): 16.1222
+indeterminancy rate (%): 25.6463
+rate of invalid likelihood (%): 0.0046296
+
+time =
+
+        2019           8          21          22          42           9
+
+1100000 draws saved
+Elapsed time is 122929.345642 seconds.
+completion rate (%): 55
+acceptance rate (%): 16.2368
+indeterminancy rate (%): 25.5975
+rate of invalid likelihood (%): 0.0045455
+
+time =
+
+        2019           8          21          23          24          44
+
+1120000 draws saved
+Elapsed time is 125611.282358 seconds.
+completion rate (%): 56
+acceptance rate (%): 16.3071
+indeterminancy rate (%): 25.7108
+rate of invalid likelihood (%): 0.0044643
+
+time =
+
+        2019           8          22           0           9          26
+
+1140000 draws saved
+Elapsed time is 128247.476441 seconds.
+completion rate (%): 57
+acceptance rate (%): 16.3843
+indeterminancy rate (%): 25.7309
+rate of invalid likelihood (%): 0.004386
+
+time =
+
+        2019           8          22           0          53          22
+
+1160000 draws saved
+Elapsed time is 130796.930154 seconds.
+completion rate (%): 58
+acceptance rate (%): 16.4878
+indeterminancy rate (%): 25.6896
+rate of invalid likelihood (%): 0.0043103
+
+time =
+
+        2019           8          22           1          35          52
+
+1180000 draws saved
+Elapsed time is 133327.587748 seconds.
+completion rate (%): 59
+acceptance rate (%): 16.5618
+indeterminancy rate (%): 25.7074
+rate of invalid likelihood (%): 0.0042373
+
+time =
+
+        2019           8          22           2          18           3
+
+1200000 draws saved
+Elapsed time is 135990.326379 seconds.
+completion rate (%): 60
+acceptance rate (%): 16.6928
+indeterminancy rate (%): 25.6651
+rate of invalid likelihood (%): 0.0041667
+
+time =
+
+        2019           8          22           3           2          25
+
+1220000 draws saved
+Elapsed time is 138541.656585 seconds.
+completion rate (%): 61
+acceptance rate (%): 16.8568
+indeterminancy rate (%): 25.5416
+rate of invalid likelihood (%): 0.0040984
+
+time =
+
+        2019           8          22           3          44          57
+
+1240000 draws saved
+Elapsed time is 141241.669852 seconds.
+completion rate (%): 62
+acceptance rate (%): 16.9652
+indeterminancy rate (%): 25.501
+rate of invalid likelihood (%): 0.0040323
+
+time =
+
+        2019           8          22           4          29          57
+
+1260000 draws saved
+Elapsed time is 143864.556487 seconds.
+completion rate (%): 63
+acceptance rate (%): 17.0333
+indeterminancy rate (%): 25.5328
+rate of invalid likelihood (%): 0.0039683
+
+time =
+
+        2019           8          22           5          13          40
+
+1280000 draws saved
+Elapsed time is 146608.957567 seconds.
+completion rate (%): 64
+acceptance rate (%): 17.1185
+indeterminancy rate (%): 25.5341
+rate of invalid likelihood (%): 0.0039063
+
+time =
+
+        2019           8          22           5          59          24
+
+1300000 draws saved
+Elapsed time is 149453.330599 seconds.
+completion rate (%): 65
+acceptance rate (%): 17.239
+indeterminancy rate (%): 25.5211
+rate of invalid likelihood (%): 0.0038462
+
+time =
+
+        2019           8          22           6          46          49
+
+1320000 draws saved
+Elapsed time is 152110.159285 seconds.
+completion rate (%): 66
+acceptance rate (%): 17.3589
+indeterminancy rate (%): 25.4489
+rate of invalid likelihood (%): 0.0037879
+
+time =
+
+        2019           8          22           7          31           5
+
+1340000 draws saved
+Elapsed time is 154896.916763 seconds.
+completion rate (%): 67
+acceptance rate (%): 17.4617
+indeterminancy rate (%): 25.4349
+rate of invalid likelihood (%): 0.0037313
+
+time =
+
+        2019           8          22           8          17          32
+
+1360000 draws saved
+Elapsed time is 157679.134126 seconds.
+completion rate (%): 68
+acceptance rate (%): 17.5882
+indeterminancy rate (%): 25.387
+rate of invalid likelihood (%): 0.0036765
+
+time =
+
+        2019           8          22           9           3          55
+
+1380000 draws saved
+Elapsed time is 160443.997040 seconds.
+completion rate (%): 69
+acceptance rate (%): 17.6684
+indeterminancy rate (%): 25.3975
+rate of invalid likelihood (%): 0.0036232
+
+time =
+
+        2019           8          22           9          49          59
+
+1400000 draws saved
+Elapsed time is 163056.521560 seconds.
+completion rate (%): 70
+acceptance rate (%): 17.7352
+indeterminancy rate (%): 25.4003
+rate of invalid likelihood (%): 0.0035714
+
+time =
+
+        2019           8          22          10          33          32
+
+1420000 draws saved
+Elapsed time is 165595.121127 seconds.
+completion rate (%): 71
+acceptance rate (%): 17.7835
+indeterminancy rate (%): 25.4063
+rate of invalid likelihood (%): 0.0035211
+
+time =
+
+        2019           8          22          11          15          51
+
+1440000 draws saved
+Elapsed time is 168298.355166 seconds.
+completion rate (%): 72
+acceptance rate (%): 17.8293
+indeterminancy rate (%): 25.4692
+rate of invalid likelihood (%): 0.0034722
+
+time =
+
+        2019           8          22          12           0          54
+
+1460000 draws saved
+Elapsed time is 170900.923223 seconds.
+completion rate (%): 73
+acceptance rate (%): 17.8652
+indeterminancy rate (%): 25.5088
+rate of invalid likelihood (%): 0.0034247
+
+time =
+
+        2019           8          22          12          44          17
+
+1480000 draws saved
+Elapsed time is 173554.832607 seconds.
+completion rate (%): 74
+acceptance rate (%): 17.8792
+indeterminancy rate (%): 25.5969
+rate of invalid likelihood (%): 0.0033784
+
+time =
+
+        2019           8          22          13          28          30
+
+1500000 draws saved
+Elapsed time is 176224.762148 seconds.
+completion rate (%): 75
+acceptance rate (%): 17.9049
+indeterminancy rate (%): 25.6569
+rate of invalid likelihood (%): 0.0033333
+
+time =
+
+        2019           8          22          14          13           0
+
+1520000 draws saved
+Elapsed time is 178746.654412 seconds.
+completion rate (%): 76
+acceptance rate (%): 17.9311
+indeterminancy rate (%): 25.6991
+rate of invalid likelihood (%): 0.0032895
+
+time =
+
+        2019           8          22          14          55           2
+
+1540000 draws saved
+Elapsed time is 181475.362234 seconds.
+completion rate (%): 77
+acceptance rate (%): 17.9969
+indeterminancy rate (%): 25.7066
+rate of invalid likelihood (%): 0.0032468
+
+time =
+
+        2019           8          22          15          40          31
+
+1560000 draws saved
+Elapsed time is 184065.357467 seconds.
+completion rate (%): 78
+acceptance rate (%): 18.0237
+indeterminancy rate (%): 25.769
+rate of invalid likelihood (%): 0.0032051
+
+time =
+
+        2019           8          22          16          23          41
+
+1580000 draws saved
+Elapsed time is 186719.983819 seconds.
+completion rate (%): 79
+acceptance rate (%): 18.0655
+indeterminancy rate (%): 25.8156
+rate of invalid likelihood (%): 0.0031646
+
+time =
+
+        2019           8          22          17           7          56
+
+1600000 draws saved
+Elapsed time is 189396.956992 seconds.
+completion rate (%): 80
+acceptance rate (%): 18.087
+indeterminancy rate (%): 25.8724
+rate of invalid likelihood (%): 0.003125
+
+time =
+
+        2019           8          22          17          52          33
+
+1620000 draws saved
+Elapsed time is 192073.259261 seconds.
+completion rate (%): 81
+acceptance rate (%): 18.1367
+indeterminancy rate (%): 25.8832
+rate of invalid likelihood (%): 0.0030864
+
+time =
+
+        2019           8          22          18          37           9
+
+1640000 draws saved
+Elapsed time is 194689.282414 seconds.
+completion rate (%): 82
+acceptance rate (%): 18.2325
+indeterminancy rate (%): 25.8233
+rate of invalid likelihood (%): 0.0030488
+
+time =
+
+        2019           8          22          19          20          45
+
+1660000 draws saved
+Elapsed time is 197297.092821 seconds.
+completion rate (%): 83
+acceptance rate (%): 18.3319
+indeterminancy rate (%): 25.7448
+rate of invalid likelihood (%): 0.003012
+
+time =
+
+        2019           8          22          20           4          13
+
+1680000 draws saved
+Elapsed time is 199891.483885 seconds.
+completion rate (%): 84
+acceptance rate (%): 18.395
+indeterminancy rate (%): 25.7105
+rate of invalid likelihood (%): 0.0029762
+
+time =
+
+        2019           8          22          20          47          28
+
+1700000 draws saved
+Elapsed time is 202502.576407 seconds.
+completion rate (%): 85
+acceptance rate (%): 18.4518
+indeterminancy rate (%): 25.6842
+rate of invalid likelihood (%): 0.0029412
+
+time =
+
+        2019           8          22          21          30          59
+
+1720000 draws saved
+Elapsed time is 205150.948954 seconds.
+completion rate (%): 86
+acceptance rate (%): 18.4968
+indeterminancy rate (%): 25.6567
+rate of invalid likelihood (%): 0.002907
+
+time =
+
+        2019           8          22          22          15           7
+
+1740000 draws saved
+Elapsed time is 207723.861468 seconds.
+completion rate (%): 87
+acceptance rate (%): 18.5591
+indeterminancy rate (%): 25.6055
+rate of invalid likelihood (%): 0.0028736
+
+time =
+
+        2019           8          22          22          58           0
+
+1760000 draws saved
+Elapsed time is 210339.929286 seconds.
+completion rate (%): 88
+acceptance rate (%): 18.6157
+indeterminancy rate (%): 25.5657
+rate of invalid likelihood (%): 0.0028409
+
+time =
+
+        2019           8          22          23          41          36
+
+1780000 draws saved
+Elapsed time is 212961.282260 seconds.
+completion rate (%): 89
+acceptance rate (%): 18.6899
+indeterminancy rate (%): 25.4997
+rate of invalid likelihood (%): 0.002809
+
+time =
+
+        2019           8          23           0          25          18
+
+1800000 draws saved
+Elapsed time is 215609.715958 seconds.
+completion rate (%): 90
+acceptance rate (%): 18.7652
+indeterminancy rate (%): 25.4374
+rate of invalid likelihood (%): 0.0027778
+
+time =
+
+        2019           8          23           1           9          26
+
+1820000 draws saved
+Elapsed time is 218205.258360 seconds.
+completion rate (%): 91
+acceptance rate (%): 18.8684
+indeterminancy rate (%): 25.3253
+rate of invalid likelihood (%): 0.0027473
+
+time =
+
+        2019           8          23           1          52          42
+
+1840000 draws saved
+Elapsed time is 220689.145433 seconds.
+completion rate (%): 92
+acceptance rate (%): 18.9776
+indeterminancy rate (%): 25.1904
+rate of invalid likelihood (%): 0.0027174
+
+time =
+
+        2019           8          23           2          34           6
+
+1860000 draws saved
+Elapsed time is 223083.334943 seconds.
+completion rate (%): 93
+acceptance rate (%): 19.0885
+indeterminancy rate (%): 25.0491
+rate of invalid likelihood (%): 0.0026882
+
+time =
+
+        2019           8          23           3          14           0
+
+1880000 draws saved
+Elapsed time is 225434.659518 seconds.
+completion rate (%): 94
+acceptance rate (%): 19.1489
+indeterminancy rate (%): 24.925
+rate of invalid likelihood (%): 0.0026596
+
+time =
+
+        2019           8          23           3          53          11
+
+1900000 draws saved
+Elapsed time is 227756.139285 seconds.
+completion rate (%): 95
+acceptance rate (%): 19.1961
+indeterminancy rate (%): 24.8254
+rate of invalid likelihood (%): 0.0026316
+
+time =
+
+        2019           8          23           4          31          53
+
+1920000 draws saved
+Elapsed time is 230040.764635 seconds.
+completion rate (%): 96
+acceptance rate (%): 19.304
+indeterminancy rate (%): 24.6748
+rate of invalid likelihood (%): 0.0026042
+
+time =
+
+        2019           8          23           5           9          57
+
+1940000 draws saved
+Elapsed time is 232070.629974 seconds.
+completion rate (%): 97
+acceptance rate (%): 19.4613
+indeterminancy rate (%): 24.4556
+rate of invalid likelihood (%): 0.0025773
+
+time =
+
+        2019           8          23           5          43          47
+
+1960000 draws saved
+Elapsed time is 234021.061889 seconds.
+completion rate (%): 98
+acceptance rate (%): 19.6302
+indeterminancy rate (%): 24.2271
+rate of invalid likelihood (%): 0.002551
+
+time =
+
+        2019           8          23           6          16          18
+
+1980000 draws saved
+Elapsed time is 236070.585731 seconds.
+completion rate (%): 99
+acceptance rate (%): 19.7849
+indeterminancy rate (%): 24.0126
+rate of invalid likelihood (%): 0.0025253
+
+time =
+
+        2019           8          23           6          50          27
+
+2000000 draws saved
+Elapsed time is 237960.380945 seconds.
+completion rate (%): 100
+acceptance rate (%): 19.9977
+indeterminancy rate (%): 23.7847
+rate of invalid likelihood (%): 0.0025
+
+time =
+
+        2019           8          23           7          21          57
+
+Elapsed time is 237960.389317 seconds.
+
+marginal =
+
+   1.0e+03 *
+
+    0.0001   -1.7715
+    0.0002   -1.7718
+    0.0003   -1.7719
+    0.0004   -1.7719
+    0.0005   -1.7719
+    0.0006   -1.7718
+    0.0007   -1.7717
+    0.0008   -1.7716
+    0.0009   -1.7715
+
+Rule of thumb bandwidth parameter
+Elapsed time is 238324.389035 seconds.
