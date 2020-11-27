@@ -1,0 +1,2959 @@
+Estimating for Columbia: NK-foreign VAR model & muq not zero
+Number of simulations: 2000000 draws
+mh scale: 0.15
+rng (3,twister)
+Initial model Log likelihood
+  -2.0030e+03
+
+20000 draws saved
+Elapsed time is 558.715349 seconds.
+completion rate (%): 1
+acceptance rate (%): 70.66
+indeterminancy rate (%): 0.06
+rate of invalid likelihood (%): 0
+
+time =
+
+        2019           7          20          16          34           2
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+40000 draws saved
+Elapsed time is 1526.436588 seconds.
+completion rate (%): 2
+acceptance rate (%): 45.3375
+indeterminancy rate (%): 0.13
+rate of invalid likelihood (%): 0.65
+
+time =
+
+        2019           7          20          16          50          10
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+60000 draws saved
+Elapsed time is 2673.572757 seconds.
+completion rate (%): 3
+acceptance rate (%): 32.9833
+indeterminancy rate (%): 0.21
+rate of invalid likelihood (%): 1.7867
+
+time =
+
+        2019           7          20          17           9          17
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+80000 draws saved
+Elapsed time is 3991.055840 seconds.
+completion rate (%): 4
+acceptance rate (%): 27.8525
+indeterminancy rate (%): 0.97875
+rate of invalid likelihood (%): 1.9338
+
+time =
+
+        2019           7          20          17          31          14
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+100000 draws saved
+Elapsed time is 5273.907676 seconds.
+completion rate (%): 5
+acceptance rate (%): 28.019
+indeterminancy rate (%): 1.068
+rate of invalid likelihood (%): 1.746
+
+time =
+
+        2019           7          20          17          52          37
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+120000 draws saved
+Elapsed time is 6503.727682 seconds.
+completion rate (%): 6
+acceptance rate (%): 28.5033
+indeterminancy rate (%): 1.0192
+rate of invalid likelihood (%): 1.5283
+
+time =
+
+        2019           7          20          18          13           7
+
+140000 draws saved
+Elapsed time is 8724.956440 seconds.
+completion rate (%): 7
+acceptance rate (%): 27.7729
+indeterminancy rate (%): 1.085
+rate of invalid likelihood (%): 1.31
+
+time =
+
+        2019           7          20          18          50           8
+
+160000 draws saved
+Elapsed time is 10630.500690 seconds.
+completion rate (%): 8
+acceptance rate (%): 26.2631
+indeterminancy rate (%): 4.3569
+rate of invalid likelihood (%): 1.1463
+
+time =
+
+        2019           7          20          19          21          54
+
+180000 draws saved
+Elapsed time is 12429.818984 seconds.
+completion rate (%): 9
+acceptance rate (%): 23.7428
+indeterminancy rate (%): 9.0283
+rate of invalid likelihood (%): 1.0189
+
+time =
+
+        2019           7          20          19          51          53
+
+200000 draws saved
+Elapsed time is 14224.455890 seconds.
+completion rate (%): 10
+acceptance rate (%): 21.677
+indeterminancy rate (%): 12.7835
+rate of invalid likelihood (%): 0.917
+
+time =
+
+        2019           7          20          20          21          48
+
+220000 draws saved
+Elapsed time is 16073.947520 seconds.
+completion rate (%): 11
+acceptance rate (%): 19.8614
+indeterminancy rate (%): 15.9032
+rate of invalid likelihood (%): 0.83364
+
+time =
+
+        2019           7          20          20          52          37
+
+240000 draws saved
+Elapsed time is 17830.693845 seconds.
+completion rate (%): 12
+acceptance rate (%): 18.4713
+indeterminancy rate (%): 18.4546
+rate of invalid likelihood (%): 0.76417
+
+time =
+
+        2019           7          20          21          21          54
+
+260000 draws saved
+Elapsed time is 19536.126485 seconds.
+completion rate (%): 13
+acceptance rate (%): 17.2519
+indeterminancy rate (%): 20.5469
+rate of invalid likelihood (%): 0.70538
+
+time =
+
+        2019           7          20          21          50          20
+
+280000 draws saved
+Elapsed time is 21217.738132 seconds.
+completion rate (%): 14
+acceptance rate (%): 16.3714
+indeterminancy rate (%): 22.3025
+rate of invalid likelihood (%): 0.655
+
+time =
+
+        2019           7          20          22          18          21
+
+300000 draws saved
+Elapsed time is 22876.828309 seconds.
+completion rate (%): 15
+acceptance rate (%): 15.3907
+indeterminancy rate (%): 24.025
+rate of invalid likelihood (%): 0.61133
+
+time =
+
+        2019           7          20          22          46           1
+
+320000 draws saved
+Elapsed time is 24573.322795 seconds.
+completion rate (%): 16
+acceptance rate (%): 14.5269
+indeterminancy rate (%): 25.5263
+rate of invalid likelihood (%): 0.57313
+
+time =
+
+        2019           7          20          23          14          17
+
+340000 draws saved
+Elapsed time is 26250.571277 seconds.
+completion rate (%): 17
+acceptance rate (%): 13.7135
+indeterminancy rate (%): 26.8368
+rate of invalid likelihood (%): 0.53941
+
+time =
+
+        2019           7          20          23          42          14
+
+360000 draws saved
+Elapsed time is 27911.043671 seconds.
+completion rate (%): 18
+acceptance rate (%): 13.0858
+indeterminancy rate (%): 27.9578
+rate of invalid likelihood (%): 0.50944
+
+time =
+
+        2019           7          21           0           9          55
+
+380000 draws saved
+Elapsed time is 29577.874088 seconds.
+completion rate (%): 19
+acceptance rate (%): 12.5108
+indeterminancy rate (%): 29.0018
+rate of invalid likelihood (%): 0.48263
+
+time =
+
+        2019           7          21           0          37          42
+
+400000 draws saved
+Elapsed time is 31214.701673 seconds.
+completion rate (%): 20
+acceptance rate (%): 11.9548
+indeterminancy rate (%): 29.9277
+rate of invalid likelihood (%): 0.4585
+
+time =
+
+        2019           7          21           1           4          59
+
+420000 draws saved
+Elapsed time is 32830.115732 seconds.
+completion rate (%): 21
+acceptance rate (%): 11.4417
+indeterminancy rate (%): 30.7864
+rate of invalid likelihood (%): 0.43667
+
+time =
+
+        2019           7          21           1          31          54
+
+440000 draws saved
+Elapsed time is 34531.431420 seconds.
+completion rate (%): 22
+acceptance rate (%): 11.0241
+indeterminancy rate (%): 31.5614
+rate of invalid likelihood (%): 0.41682
+
+time =
+
+        2019           7          21           2           0          16
+
+460000 draws saved
+Elapsed time is 36242.092034 seconds.
+completion rate (%): 23
+acceptance rate (%): 10.7004
+indeterminancy rate (%): 32.1663
+rate of invalid likelihood (%): 0.3987
+
+time =
+
+        2019           7          21           2          28          46
+
+480000 draws saved
+Elapsed time is 37996.684170 seconds.
+completion rate (%): 24
+acceptance rate (%): 10.5238
+indeterminancy rate (%): 32.5979
+rate of invalid likelihood (%): 0.38208
+
+time =
+
+        2019           7          21           2          58           1
+
+500000 draws saved
+Elapsed time is 39729.845496 seconds.
+completion rate (%): 25
+acceptance rate (%): 10.4016
+indeterminancy rate (%): 33.0072
+rate of invalid likelihood (%): 0.3668
+
+time =
+
+        2019           7          21           3          26          54
+
+520000 draws saved
+Elapsed time is 41498.731342 seconds.
+completion rate (%): 26
+acceptance rate (%): 10.3329
+indeterminancy rate (%): 33.3573
+rate of invalid likelihood (%): 0.35269
+
+time =
+
+        2019           7          21           3          56          23
+
+540000 draws saved
+Elapsed time is 43240.010313 seconds.
+completion rate (%): 27
+acceptance rate (%): 10.3315
+indeterminancy rate (%): 33.5613
+rate of invalid likelihood (%): 0.33963
+
+time =
+
+        2019           7          21           4          25          24
+
+560000 draws saved
+Elapsed time is 44939.003426 seconds.
+completion rate (%): 28
+acceptance rate (%): 10.1407
+indeterminancy rate (%): 33.9525
+rate of invalid likelihood (%): 0.3275
+
+time =
+
+        2019           7          21           4          53          43
+
+580000 draws saved
+Elapsed time is 46609.742263 seconds.
+completion rate (%): 29
+acceptance rate (%): 9.9459
+indeterminancy rate (%): 34.3848
+rate of invalid likelihood (%): 0.31621
+
+time =
+
+        2019           7          21           5          21          34
+
+600000 draws saved
+Elapsed time is 48282.600582 seconds.
+completion rate (%): 30
+acceptance rate (%): 9.8247
+indeterminancy rate (%): 34.6898
+rate of invalid likelihood (%): 0.30567
+
+time =
+
+        2019           7          21           5          49          27
+
+620000 draws saved
+Elapsed time is 50009.727034 seconds.
+completion rate (%): 31
+acceptance rate (%): 9.7192
+indeterminancy rate (%): 34.9306
+rate of invalid likelihood (%): 0.29581
+
+time =
+
+        2019           7          21           6          18          14
+
+640000 draws saved
+Elapsed time is 51770.647731 seconds.
+completion rate (%): 32
+acceptance rate (%): 9.6411
+indeterminancy rate (%): 34.83
+rate of invalid likelihood (%): 0.28656
+
+time =
+
+        2019           7          21           6          47          35
+
+660000 draws saved
+Elapsed time is 53375.138565 seconds.
+completion rate (%): 33
+acceptance rate (%): 9.4418
+indeterminancy rate (%): 35.0965
+rate of invalid likelihood (%): 0.27788
+
+time =
+
+        2019           7          21           7          14          20
+
+680000 draws saved
+Elapsed time is 55056.016677 seconds.
+completion rate (%): 34
+acceptance rate (%): 9.3191
+indeterminancy rate (%): 35.3715
+rate of invalid likelihood (%): 0.26971
+
+time =
+
+        2019           7          21           7          42          21
+
+700000 draws saved
+Elapsed time is 56699.853983 seconds.
+completion rate (%): 35
+acceptance rate (%): 9.1286
+indeterminancy rate (%): 35.7066
+rate of invalid likelihood (%): 0.262
+
+time =
+
+        2019           7          21           8           9          45
+
+720000 draws saved
+Elapsed time is 58332.275245 seconds.
+completion rate (%): 36
+acceptance rate (%): 8.9336
+indeterminancy rate (%): 35.9982
+rate of invalid likelihood (%): 0.25472
+
+time =
+
+        2019           7          21           8          36          57
+
+740000 draws saved
+Elapsed time is 60005.599884 seconds.
+completion rate (%): 37
+acceptance rate (%): 8.7919
+indeterminancy rate (%): 36.2622
+rate of invalid likelihood (%): 0.24784
+
+time =
+
+        2019           7          21           9           4          50
+
+760000 draws saved
+Elapsed time is 61672.484649 seconds.
+completion rate (%): 38
+acceptance rate (%): 8.6568
+indeterminancy rate (%): 36.5067
+rate of invalid likelihood (%): 0.24132
+
+time =
+
+        2019           7          21           9          32          37
+
+780000 draws saved
+Elapsed time is 63364.638807 seconds.
+completion rate (%): 39
+acceptance rate (%): 8.585
+indeterminancy rate (%): 36.7327
+rate of invalid likelihood (%): 0.23513
+
+time =
+
+        2019           7          21          10           0          50
+
+800000 draws saved
+Elapsed time is 65029.478207 seconds.
+completion rate (%): 40
+acceptance rate (%): 8.4976
+indeterminancy rate (%): 36.954
+rate of invalid likelihood (%): 0.22925
+
+time =
+
+        2019           7          21          10          28          34
+
+820000 draws saved
+Elapsed time is 66653.865277 seconds.
+completion rate (%): 41
+acceptance rate (%): 8.3926
+indeterminancy rate (%): 37.1863
+rate of invalid likelihood (%): 0.22366
+
+time =
+
+        2019           7          21          10          55          39
+
+840000 draws saved
+Elapsed time is 68290.823808 seconds.
+completion rate (%): 42
+acceptance rate (%): 8.2562
+indeterminancy rate (%): 37.4355
+rate of invalid likelihood (%): 0.21833
+
+time =
+
+        2019           7          21          11          22          56
+
+860000 draws saved
+Elapsed time is 69927.037524 seconds.
+completion rate (%): 43
+acceptance rate (%): 8.1157
+indeterminancy rate (%): 37.6729
+rate of invalid likelihood (%): 0.21326
+
+time =
+
+        2019           7          21          11          50          12
+
+880000 draws saved
+Elapsed time is 71611.559865 seconds.
+completion rate (%): 44
+acceptance rate (%): 7.9714
+indeterminancy rate (%): 37.9151
+rate of invalid likelihood (%): 0.20841
+
+time =
+
+        2019           7          21          12          18          17
+
+900000 draws saved
+Elapsed time is 73284.076896 seconds.
+completion rate (%): 45
+acceptance rate (%): 7.8283
+indeterminancy rate (%): 38.146
+rate of invalid likelihood (%): 0.20378
+
+time =
+
+        2019           7          21          12          46           9
+
+920000 draws saved
+Elapsed time is 75053.284220 seconds.
+completion rate (%): 46
+acceptance rate (%): 7.6984
+indeterminancy rate (%): 38.3411
+rate of invalid likelihood (%): 0.19935
+
+time =
+
+        2019           7          21          13          15          39
+
+940000 draws saved
+Elapsed time is 76781.684793 seconds.
+completion rate (%): 47
+acceptance rate (%): 7.5583
+indeterminancy rate (%): 38.5555
+rate of invalid likelihood (%): 0.19511
+
+time =
+
+        2019           7          21          13          44          27
+
+960000 draws saved
+Elapsed time is 78405.094147 seconds.
+completion rate (%): 48
+acceptance rate (%): 7.4104
+indeterminancy rate (%): 38.7579
+rate of invalid likelihood (%): 0.19104
+
+time =
+
+        2019           7          21          14          11          30
+
+980000 draws saved
+Elapsed time is 80046.881962 seconds.
+completion rate (%): 49
+acceptance rate (%): 7.2695
+indeterminancy rate (%): 38.9676
+rate of invalid likelihood (%): 0.18714
+
+time =
+
+        2019           7          21          14          38          52
+
+1000000 draws saved
+Elapsed time is 81754.854093 seconds.
+completion rate (%): 50
+acceptance rate (%): 7.1341
+indeterminancy rate (%): 39.1565
+rate of invalid likelihood (%): 0.1834
+
+time =
+
+        2019           7          21          15           7          20
+
+1020000 draws saved
+Elapsed time is 83480.940223 seconds.
+completion rate (%): 51
+acceptance rate (%): 7.0112
+indeterminancy rate (%): 39.3157
+rate of invalid likelihood (%): 0.1798
+
+time =
+
+        2019           7          21          15          36           6
+
+1040000 draws saved
+Elapsed time is 85259.605787 seconds.
+completion rate (%): 52
+acceptance rate (%): 6.9001
+indeterminancy rate (%): 39.478
+rate of invalid likelihood (%): 0.17635
+
+time =
+
+        2019           7          21          16           5          45
+
+1060000 draws saved
+Elapsed time is 87016.454331 seconds.
+completion rate (%): 53
+acceptance rate (%): 6.7858
+indeterminancy rate (%): 39.6497
+rate of invalid likelihood (%): 0.17302
+
+time =
+
+        2019           7          21          16          35           2
+
+1080000 draws saved
+Elapsed time is 88772.005432 seconds.
+completion rate (%): 54
+acceptance rate (%): 6.7144
+indeterminancy rate (%): 39.7983
+rate of invalid likelihood (%): 0.16981
+
+time =
+
+        2019           7          21          17           4          18
+
+1100000 draws saved
+Elapsed time is 90688.735071 seconds.
+completion rate (%): 55
+acceptance rate (%): 6.6315
+indeterminancy rate (%): 39.9301
+rate of invalid likelihood (%): 0.16673
+
+time =
+
+        2019           7          21          17          36          14
+
+1120000 draws saved
+Elapsed time is 92537.800974 seconds.
+completion rate (%): 56
+acceptance rate (%): 6.5897
+indeterminancy rate (%): 40.024
+rate of invalid likelihood (%): 0.16375
+
+time =
+
+        2019           7          21          18           7           4
+
+1140000 draws saved
+Elapsed time is 94354.854068 seconds.
+completion rate (%): 57
+acceptance rate (%): 6.5044
+indeterminancy rate (%): 40.1599
+rate of invalid likelihood (%): 0.16088
+
+time =
+
+        2019           7          21          18          37          21
+
+1160000 draws saved
+Elapsed time is 96175.277116 seconds.
+completion rate (%): 58
+acceptance rate (%): 6.4273
+indeterminancy rate (%): 40.2907
+rate of invalid likelihood (%): 0.1581
+
+time =
+
+        2019           7          21          19           7          41
+
+1180000 draws saved
+Elapsed time is 97886.791149 seconds.
+completion rate (%): 59
+acceptance rate (%): 6.345
+indeterminancy rate (%): 40.3864
+rate of invalid likelihood (%): 0.15542
+
+time =
+
+        2019           7          21          19          36          13
+
+1200000 draws saved
+Elapsed time is 99565.573163 seconds.
+completion rate (%): 60
+acceptance rate (%): 6.2546
+indeterminancy rate (%): 40.5023
+rate of invalid likelihood (%): 0.15283
+
+time =
+
+        2019           7          21          20           4          12
+
+1220000 draws saved
+Elapsed time is 101267.236735 seconds.
+completion rate (%): 61
+acceptance rate (%): 6.1715
+indeterminancy rate (%): 40.5979
+rate of invalid likelihood (%): 0.15033
+
+time =
+
+        2019           7          21          20          32          33
+
+1240000 draws saved
+Elapsed time is 102946.298728 seconds.
+completion rate (%): 62
+acceptance rate (%): 6.0804
+indeterminancy rate (%): 40.7199
+rate of invalid likelihood (%): 0.1479
+
+time =
+
+        2019           7          21          21           0          32
+
+1260000 draws saved
+Elapsed time is 104648.970598 seconds.
+completion rate (%): 63
+acceptance rate (%): 5.9894
+indeterminancy rate (%): 40.8425
+rate of invalid likelihood (%): 0.14556
+
+time =
+
+        2019           7          21          21          28          55
+
+1280000 draws saved
+Elapsed time is 106381.997876 seconds.
+completion rate (%): 64
+acceptance rate (%): 5.8961
+indeterminancy rate (%): 40.958
+rate of invalid likelihood (%): 0.14328
+
+time =
+
+        2019           7          21          21          57          48
+
+1300000 draws saved
+Elapsed time is 108136.434107 seconds.
+completion rate (%): 65
+acceptance rate (%): 5.8205
+indeterminancy rate (%): 41.0532
+rate of invalid likelihood (%): 0.14108
+
+time =
+
+        2019           7          21          22          27           3
+
+1320000 draws saved
+Elapsed time is 109973.922880 seconds.
+completion rate (%): 66
+acceptance rate (%): 5.7686
+indeterminancy rate (%): 41.1401
+rate of invalid likelihood (%): 0.13894
+
+time =
+
+        2019           7          21          22          57          40
+
+1340000 draws saved
+Elapsed time is 111846.329848 seconds.
+completion rate (%): 67
+acceptance rate (%): 5.7009
+indeterminancy rate (%): 41.2762
+rate of invalid likelihood (%): 0.13687
+
+time =
+
+        2019           7          21          23          28          53
+
+1360000 draws saved
+Elapsed time is 113630.876582 seconds.
+completion rate (%): 68
+acceptance rate (%): 5.6379
+indeterminancy rate (%): 41.3446
+rate of invalid likelihood (%): 0.13485
+
+time =
+
+        2019           7          21          23          58          37
+
+1380000 draws saved
+Elapsed time is 115596.876647 seconds.
+completion rate (%): 69
+acceptance rate (%): 5.5794
+indeterminancy rate (%): 41.434
+rate of invalid likelihood (%): 0.1329
+
+time =
+
+        2019           7          22           0          31          23
+
+1400000 draws saved
+Elapsed time is 117506.020016 seconds.
+completion rate (%): 70
+acceptance rate (%): 5.5515
+indeterminancy rate (%): 41.5072
+rate of invalid likelihood (%): 0.131
+
+time =
+
+        2019           7          22           1           3          13
+
+1420000 draws saved
+Elapsed time is 119368.695819 seconds.
+completion rate (%): 71
+acceptance rate (%): 5.5126
+indeterminancy rate (%): 41.4425
+rate of invalid likelihood (%): 0.12915
+
+time =
+
+        2019           7          22           1          34          15
+
+1440000 draws saved
+Elapsed time is 121150.319189 seconds.
+completion rate (%): 72
+acceptance rate (%): 5.4736
+indeterminancy rate (%): 41.5085
+rate of invalid likelihood (%): 0.12736
+
+time =
+
+        2019           7          22           2           3          57
+
+1460000 draws saved
+Elapsed time is 122904.899945 seconds.
+completion rate (%): 73
+acceptance rate (%): 5.4208
+indeterminancy rate (%): 41.5931
+rate of invalid likelihood (%): 0.12562
+
+time =
+
+        2019           7          22           2          33          12
+
+1480000 draws saved
+Elapsed time is 124710.810177 seconds.
+completion rate (%): 74
+acceptance rate (%): 5.3635
+indeterminancy rate (%): 41.693
+rate of invalid likelihood (%): 0.12392
+
+time =
+
+        2019           7          22           3           3          18
+
+1500000 draws saved
+Elapsed time is 126381.780348 seconds.
+completion rate (%): 75
+acceptance rate (%): 5.3058
+indeterminancy rate (%): 41.773
+rate of invalid likelihood (%): 0.12227
+
+time =
+
+        2019           7          22           3          31           9
+
+1520000 draws saved
+Elapsed time is 128085.350484 seconds.
+completion rate (%): 76
+acceptance rate (%): 5.242
+indeterminancy rate (%): 41.865
+rate of invalid likelihood (%): 0.12066
+
+time =
+
+        2019           7          22           3          59          32
+
+1540000 draws saved
+Elapsed time is 129760.411451 seconds.
+completion rate (%): 77
+acceptance rate (%): 5.1847
+indeterminancy rate (%): 41.9488
+rate of invalid likelihood (%): 0.11909
+
+time =
+
+        2019           7          22           4          27          27
+
+1560000 draws saved
+Elapsed time is 131443.933663 seconds.
+completion rate (%): 78
+acceptance rate (%): 5.1261
+indeterminancy rate (%): 42.0213
+rate of invalid likelihood (%): 0.11756
+
+time =
+
+        2019           7          22           4          55          31
+
+1580000 draws saved
+Elapsed time is 133139.931380 seconds.
+completion rate (%): 79
+acceptance rate (%): 5.0675
+indeterminancy rate (%): 42.1077
+rate of invalid likelihood (%): 0.11608
+
+time =
+
+        2019           7          22           5          23          47
+
+1600000 draws saved
+Elapsed time is 134849.289213 seconds.
+completion rate (%): 80
+acceptance rate (%): 5.0055
+indeterminancy rate (%): 42.1915
+rate of invalid likelihood (%): 0.11462
+
+time =
+
+        2019           7          22           5          52          16
+
+1620000 draws saved
+Elapsed time is 136568.354408 seconds.
+completion rate (%): 81
+acceptance rate (%): 4.9466
+indeterminancy rate (%): 42.2746
+rate of invalid likelihood (%): 0.11321
+
+time =
+
+        2019           7          22           6          20          55
+
+1640000 draws saved
+Elapsed time is 138259.336551 seconds.
+completion rate (%): 82
+acceptance rate (%): 4.889
+indeterminancy rate (%): 42.35
+rate of invalid likelihood (%): 0.11183
+
+time =
+
+        2019           7          22           6          49           6
+
+1660000 draws saved
+Elapsed time is 139976.777002 seconds.
+completion rate (%): 83
+acceptance rate (%): 4.8361
+indeterminancy rate (%): 42.4199
+rate of invalid likelihood (%): 0.11048
+
+time =
+
+        2019           7          22           7          17          44
+
+1680000 draws saved
+Elapsed time is 141777.505253 seconds.
+completion rate (%): 84
+acceptance rate (%): 4.7918
+indeterminancy rate (%): 42.4819
+rate of invalid likelihood (%): 0.10917
+
+time =
+
+        2019           7          22           7          47          45
+
+1700000 draws saved
+Elapsed time is 143555.381426 seconds.
+completion rate (%): 85
+acceptance rate (%): 4.7486
+indeterminancy rate (%): 42.5477
+rate of invalid likelihood (%): 0.10788
+
+time =
+
+        2019           7          22           8          17          23
+
+1720000 draws saved
+Elapsed time is 145298.576987 seconds.
+completion rate (%): 86
+acceptance rate (%): 4.7111
+indeterminancy rate (%): 42.6032
+rate of invalid likelihood (%): 0.10663
+
+time =
+
+        2019           7          22           8          46          26
+
+1740000 draws saved
+Elapsed time is 147059.661958 seconds.
+completion rate (%): 87
+acceptance rate (%): 4.6705
+indeterminancy rate (%): 42.6586
+rate of invalid likelihood (%): 0.1054
+
+time =
+
+        2019           7          22           9          15          47
+
+1760000 draws saved
+Elapsed time is 148754.372286 seconds.
+completion rate (%): 88
+acceptance rate (%): 4.637
+indeterminancy rate (%): 42.7066
+rate of invalid likelihood (%): 0.1042
+
+time =
+
+        2019           7          22           9          44           2
+
+1780000 draws saved
+Elapsed time is 150597.629428 seconds.
+completion rate (%): 89
+acceptance rate (%): 4.6002
+indeterminancy rate (%): 42.7498
+rate of invalid likelihood (%): 0.10303
+
+time =
+
+        2019           7          22          10          14          45
+
+1800000 draws saved
+Elapsed time is 152353.726082 seconds.
+completion rate (%): 90
+acceptance rate (%): 4.5676
+indeterminancy rate (%): 42.8064
+rate of invalid likelihood (%): 0.10189
+
+time =
+
+        2019           7          22          10          44           1
+
+1820000 draws saved
+Elapsed time is 154057.348554 seconds.
+completion rate (%): 91
+acceptance rate (%): 4.5293
+indeterminancy rate (%): 42.8662
+rate of invalid likelihood (%): 0.10077
+
+time =
+
+        2019           7          22          11          12          25
+
+1840000 draws saved
+Elapsed time is 155756.719205 seconds.
+completion rate (%): 92
+acceptance rate (%): 4.4909
+indeterminancy rate (%): 42.9075
+rate of invalid likelihood (%): 0.099674
+
+time =
+
+        2019           7          22          11          40          44
+
+1860000 draws saved
+Elapsed time is 157448.505120 seconds.
+completion rate (%): 93
+acceptance rate (%): 4.4426
+indeterminancy rate (%): 42.9212
+rate of invalid likelihood (%): 0.098602
+
+time =
+
+        2019           7          22          12           8          56
+
+1880000 draws saved
+Elapsed time is 159293.482798 seconds.
+completion rate (%): 94
+acceptance rate (%): 4.4072
+indeterminancy rate (%): 42.9693
+rate of invalid likelihood (%): 0.097553
+
+time =
+
+        2019           7          22          12          39          41
+
+1900000 draws saved
+Elapsed time is 161166.344629 seconds.
+completion rate (%): 95
+acceptance rate (%): 4.3733
+indeterminancy rate (%): 43.0322
+rate of invalid likelihood (%): 0.096526
+
+time =
+
+        2019           7          22          13          10          54
+
+1920000 draws saved
+Elapsed time is 162991.615424 seconds.
+completion rate (%): 96
+acceptance rate (%): 4.3335
+indeterminancy rate (%): 43.0803
+rate of invalid likelihood (%): 0.095521
+
+time =
+
+        2019           7          22          13          41          19
+
+1940000 draws saved
+Elapsed time is 164817.933178 seconds.
+completion rate (%): 97
+acceptance rate (%): 4.2922
+indeterminancy rate (%): 43.132
+rate of invalid likelihood (%): 0.094536
+
+time =
+
+        2019           7          22          14          11          46
+
+1960000 draws saved
+Elapsed time is 166769.151634 seconds.
+completion rate (%): 98
+acceptance rate (%): 4.2485
+indeterminancy rate (%): 43.1909
+rate of invalid likelihood (%): 0.093571
+
+time =
+
+        2019           7          22          14          44          17
+
+1980000 draws saved
+Elapsed time is 168754.810392 seconds.
+completion rate (%): 99
+acceptance rate (%): 4.2056
+indeterminancy rate (%): 43.2454
+rate of invalid likelihood (%): 0.092626
+
+time =
+
+        2019           7          22          15          17          23
+
+2000000 draws saved
+Elapsed time is 170824.643508 seconds.
+completion rate (%): 100
+acceptance rate (%): 4.1702
+indeterminancy rate (%): 43.2942
+rate of invalid likelihood (%): 0.0917
+
+time =
+
+        2019           7          22          15          51          53
+
+Elapsed time is 170824.655330 seconds.
+
+marginal =
+
+   1.0e+03 *
+
+    0.0001   -1.5963
+    0.0002   -1.5960
+    0.0003   -1.5957
+    0.0004   -1.5955
+    0.0005   -1.5953
+    0.0006   -1.5951
+    0.0007   -1.5950
+    0.0008   -1.5949
+    0.0009   -1.5947
+
+Rule of thumb bandwidth parameter
+Elapsed time is 171705.223480 seconds.

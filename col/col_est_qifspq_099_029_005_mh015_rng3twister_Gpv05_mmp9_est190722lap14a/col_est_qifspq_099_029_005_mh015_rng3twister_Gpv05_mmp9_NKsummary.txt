@@ -1,0 +1,4 @@
+# of draws: 2000000
+rate of acceptance (in %): 4.170150
+% of indeterminancies: 43.294250
+% of invalid likelihood: 0.091700
