@@ -1,0 +1,1502 @@
+Estimating for Peru: NK-foreign VAR model & muq not zero
+Number of simulations: 2000000 draws
+mh scale: 0.85
+rng (14,twister)
+Initial model Log likelihood
+  -3.3220e+03
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+20000 draws saved
+Elapsed time is 1933.975196 seconds.
+completion rate (%): 1
+acceptance rate (%): 2.7
+indeterminancy rate (%): 44.495
+rate of invalid likelihood (%): 0.09
+
+time =
+
+        2019           8          14           8           5          37
+
+40000 draws saved
+Elapsed time is 3903.902007 seconds.
+completion rate (%): 2
+acceptance rate (%): 1.3775
+indeterminancy rate (%): 46.1875
+rate of invalid likelihood (%): 0.045
+
+time =
+
+        2019           8          14           8          38          27
+
+60000 draws saved
+Elapsed time is 5906.693416 seconds.
+completion rate (%): 3
+acceptance rate (%): 0.91833
+indeterminancy rate (%): 47.1767
+rate of invalid likelihood (%): 0.03
+
+time =
+
+        2019           8          14           9          11          49
+
+80000 draws saved
+Elapsed time is 7901.771217 seconds.
+completion rate (%): 4
+acceptance rate (%): 0.69
+indeterminancy rate (%): 47.5737
+rate of invalid likelihood (%): 0.0225
+
+time =
+
+        2019           8          14           9          45           5
+
+100000 draws saved
+Elapsed time is 9933.497115 seconds.
+completion rate (%): 5
+acceptance rate (%): 0.553
+indeterminancy rate (%): 48.177
+rate of invalid likelihood (%): 0.018
+
+time =
+
+        2019           8          14          10          18          56
+
+120000 draws saved
+Elapsed time is 11972.006249 seconds.
+completion rate (%): 6
+acceptance rate (%): 0.46083
+indeterminancy rate (%): 48.6342
+rate of invalid likelihood (%): 0.015
+
+time =
+
+        2019           8          14          10          52          55
+
+{Error using <a href="matlab:helpUtils.errorDocCallback('waitbar', 'C:\Program Files\MATLAB\R2014a\toolbox\matlab\uitools\waitbar.m', 90)" style="font-weight:bold">waitbar</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2014a\toolbox\matlab\uitools\waitbar.m',90,0)">line 90</a>)
+The second argument must be a message string or a handle to an existing waitbar.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('per_est_qifspq_099_035_005_mh085_rng14twister_Gpv05_mmp9_muq0', 'C:\Users\Alexander\Documents\MATLAB\kll_codes_mod_laits\per_est_qifspq_099_035_005_mh085_rng14twister_Gpv05_mmp9_muq0.m', 466)" style="font-weight:bold">per_est_qifspq_099_035_005_mh085_rng14twister_Gpv05_mmp9_muq0</a> (<a href="matlab: opentoline('C:\Users\Alexander\Documents\MATLAB\kll_codes_mod_laits\per_est_qifspq_099_035_005_mh085_rng14twister_Gpv05_mmp9_muq0.m',466,0)">line 466</a>)
+    waitbar(prtfrc,hh,sprintf('percent done: %f; acceptance rate: %f',prtfrc*100,pau/j*100));
+} 
+Estimating for Peru: NK-foreign VAR model & muq not zero
+Number of simulations: 2000000 draws
+mh scale: 0.815
+rng (14,twister)
+Initial model Log likelihood
+  -3.3220e+03
+
+20000 draws saved
+Elapsed time is 2266.361218 seconds.
+completion rate (%): 1
+acceptance rate (%): 0.135
+indeterminancy rate (%): 62.695
+rate of invalid likelihood (%): 0
+
+time =
+
+        2019           8          14          13          30          34
+
+40000 draws saved
+Elapsed time is 4338.828083 seconds.
+completion rate (%): 2
+acceptance rate (%): 0.275
+indeterminancy rate (%): 59.4575
+rate of invalid likelihood (%): 0
+
+time =
+
+        2019           8          14          14           5           7
+
+60000 draws saved
+Elapsed time is 6640.742058 seconds.
+completion rate (%): 3
+acceptance rate (%): 0.18667
+indeterminancy rate (%): 60.8767
+rate of invalid likelihood (%): 0
+
+time =
+
+        2019           8          14          14          43          29
+
+{Error using <a href="matlab:helpUtils.errorDocCallback('waitbar', 'C:\Program Files\MATLAB\R2014a\toolbox\matlab\uitools\waitbar.m', 90)" style="font-weight:bold">waitbar</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2014a\toolbox\matlab\uitools\waitbar.m',90,0)">line 90</a>)
+The second argument must be a message string or a handle to an existing waitbar.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('per_est_qifspq_099_035_005_mh085_rng14twister_Gpv05_mmp9_muq0', 'C:\Users\Alexander\Documents\MATLAB\kll_codes_mod_laits\per_est_qifspq_099_035_005_mh085_rng14twister_Gpv05_mmp9_muq0.m', 466)" style="font-weight:bold">per_est_qifspq_099_035_005_mh085_rng14twister_Gpv05_mmp9_muq0</a> (<a href="matlab: opentoline('C:\Users\Alexander\Documents\MATLAB\kll_codes_mod_laits\per_est_qifspq_099_035_005_mh085_rng14twister_Gpv05_mmp9_muq0.m',466,0)">line 466</a>)
+    waitbar(prtfrc,hh,sprintf('percent done: %f; acceptance rate: %f',prtfrc*100,pau/j*100));
+} 
+per_est_qifspq_099_035_005_mh085_rng14twister_Gpv05_mmp9_muq0
+Estimating for Peru: NK-foreign VAR model & muq not zero
+Number of simulations: 2000000 draws
+mh scale: 0.875
+rng (14,twister)
+Initial model Log likelihood
+  -3.3220e+03
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+20000 draws saved
+Elapsed time is 2220.004199 seconds.
+completion rate (%): 1
+acceptance rate (%): 2
+indeterminancy rate (%): 48.135
+rate of invalid likelihood (%): 0.27
+
+time =
+
+        2019           8          14          15          57          10
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+40000 draws saved
+Elapsed time is 4278.290709 seconds.
+completion rate (%): 2
+acceptance rate (%): 1.215
+indeterminancy rate (%): 48.1525
+rate of invalid likelihood (%): 0.15
+
+time =
+
+        2019           8          14          16          31          28
+
+60000 draws saved
+Elapsed time is 6614.739010 seconds.
+completion rate (%): 3
+acceptance rate (%): 0.81
+indeterminancy rate (%): 52.7483
+rate of invalid likelihood (%): 0.1
+
+time =
+
+        2019           8          14          17          10          24
+
+80000 draws saved
+Elapsed time is 8830.573764 seconds.
+completion rate (%): 4
+acceptance rate (%): 0.60875
+indeterminancy rate (%): 53.505
+rate of invalid likelihood (%): 0.075
+
+time =
+
+        2019           8          14          17          47          20
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+100000 draws saved
+Elapsed time is 11052.333300 seconds.
+completion rate (%): 5
+acceptance rate (%): 0.487
+indeterminancy rate (%): 54.068
+rate of invalid likelihood (%): 0.061
+
+time =
+
+        2019           8          14          18          24          22
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+120000 draws saved
+Elapsed time is 13231.770413 seconds.
+completion rate (%): 6
+acceptance rate (%): 0.40667
+indeterminancy rate (%): 54.1383
+rate of invalid likelihood (%): 0.0525
+
+time =
+
+        2019           8          14          19           0          42
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+140000 draws saved
+Elapsed time is 15415.848848 seconds.
+completion rate (%): 7
+acceptance rate (%): 0.34857
+indeterminancy rate (%): 54.2843
+rate of invalid likelihood (%): 0.045714
+
+time =
+
+        2019           8          14          19          37           6
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+160000 draws saved
+Elapsed time is 17602.723440 seconds.
+completion rate (%): 8
+acceptance rate (%): 0.305
+indeterminancy rate (%): 54.3744
+rate of invalid likelihood (%): 0.040625
+
+time =
+
+        2019           8          14          20          13          33
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+180000 draws saved
+Elapsed time is 19799.250550 seconds.
+completion rate (%): 9
+acceptance rate (%): 0.27111
+indeterminancy rate (%): 54.4811
+rate of invalid likelihood (%): 0.036667
+
+time =
+
+        2019           8          14          20          50           9
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+200000 draws saved
+Elapsed time is 21988.617240 seconds.
+completion rate (%): 10
+acceptance rate (%): 0.244
+indeterminancy rate (%): 54.568
+rate of invalid likelihood (%): 0.035
+
+time =
+
+        2019           8          14          21          26          39
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+220000 draws saved
+Elapsed time is 24177.702266 seconds.
+completion rate (%): 11
+acceptance rate (%): 0.22182
+indeterminancy rate (%): 54.67
+rate of invalid likelihood (%): 0.033182
+
+time =
+
+        2019           8          14          22           3           8
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+240000 draws saved
+Elapsed time is 26368.300378 seconds.
+completion rate (%): 12
+acceptance rate (%): 0.20333
+indeterminancy rate (%): 54.7292
+rate of invalid likelihood (%): 0.0325
+
+time =
+
+        2019           8          14          22          39          38
+
+260000 draws saved
+Elapsed time is 28554.765799 seconds.
+completion rate (%): 13
+acceptance rate (%): 0.18769
+indeterminancy rate (%): 54.76
+rate of invalid likelihood (%): 0.03
+
+time =
+
+        2019           8          14          23          16           5
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+280000 draws saved
+Elapsed time is 30728.341302 seconds.
+completion rate (%): 14
+acceptance rate (%): 0.17464
+indeterminancy rate (%): 54.7746
+rate of invalid likelihood (%): 0.028571
+
+time =
+
+        2019           8          14          23          52          18
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+300000 draws saved
+Elapsed time is 32864.177193 seconds.
+completion rate (%): 15
+acceptance rate (%): 0.16333
+indeterminancy rate (%): 54.71
+rate of invalid likelihood (%): 0.027
+
+time =
+
+        2019           8          15           0          27          54
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+320000 draws saved
+Elapsed time is 35022.711254 seconds.
+completion rate (%): 16
+acceptance rate (%): 0.15313
+indeterminancy rate (%): 54.7047
+rate of invalid likelihood (%): 0.02625
+
+time =
+
+        2019           8          15           1           3          53
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+340000 draws saved
+Elapsed time is 37186.606994 seconds.
+completion rate (%): 17
+acceptance rate (%): 0.14412
+indeterminancy rate (%): 54.735
+rate of invalid likelihood (%): 0.025588
+
+time =
+
+        2019           8          15           1          39          57
+
+360000 draws saved
+Elapsed time is 39345.629940 seconds.
+completion rate (%): 18
+acceptance rate (%): 0.13611
+indeterminancy rate (%): 54.7653
+rate of invalid likelihood (%): 0.024167
+
+time =
+
+        2019           8          15           2          15          56
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+380000 draws saved
+Elapsed time is 41501.635259 seconds.
+completion rate (%): 19
+acceptance rate (%): 0.12895
+indeterminancy rate (%): 54.7524
+rate of invalid likelihood (%): 0.023421
+
+time =
+
+        2019           8          15           2          51          52
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+400000 draws saved
+Elapsed time is 43655.952400 seconds.
+completion rate (%): 20
+acceptance rate (%): 0.1225
+indeterminancy rate (%): 54.7432
+rate of invalid likelihood (%): 0.02325
+
+time =
+
+        2019           8          15           3          27          46
+
+420000 draws saved
+Elapsed time is 45806.314204 seconds.
+completion rate (%): 21
+acceptance rate (%): 0.11667
+indeterminancy rate (%): 54.7474
+rate of invalid likelihood (%): 0.022143
+
+time =
+
+        2019           8          15           4           3          37
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+440000 draws saved
+Elapsed time is 47954.790418 seconds.
+completion rate (%): 22
+acceptance rate (%): 0.11136
+indeterminancy rate (%): 54.7327
+rate of invalid likelihood (%): 0.021364
+
+time =
+
+        2019           8          15           4          39          25
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+460000 draws saved
+Elapsed time is 50104.635920 seconds.
+completion rate (%): 23
+acceptance rate (%): 0.10652
+indeterminancy rate (%): 54.7198
+rate of invalid likelihood (%): 0.02087
+
+time =
+
+        2019           8          15           5          15          15
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+480000 draws saved
+Elapsed time is 52262.260521 seconds.
+completion rate (%): 24
+acceptance rate (%): 0.10208
+indeterminancy rate (%): 54.7104
+rate of invalid likelihood (%): 0.020417
+
+time =
+
+        2019           8          15           5          51          13
+
+500000 draws saved
+Elapsed time is 54417.018923 seconds.
+completion rate (%): 25
+acceptance rate (%): 0.098
+indeterminancy rate (%): 54.7
+rate of invalid likelihood (%): 0.0196
+
+time =
+
+        2019           8          15           6          27           7
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+520000 draws saved
+Elapsed time is 56586.301888 seconds.
+completion rate (%): 26
+acceptance rate (%): 0.094231
+indeterminancy rate (%): 54.7119
+rate of invalid likelihood (%): 0.019038
+
+time =
+
+        2019           8          15           7           3          17
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+540000 draws saved
+Elapsed time is 58745.533646 seconds.
+completion rate (%): 27
+acceptance rate (%): 0.090741
+indeterminancy rate (%): 54.7094
+rate of invalid likelihood (%): 0.018704
+
+time =
+
+        2019           8          15           7          39          16
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+560000 draws saved
+Elapsed time is 60903.386106 seconds.
+completion rate (%): 28
+acceptance rate (%): 0.0875
+indeterminancy rate (%): 54.7066
+rate of invalid likelihood (%): 0.018214
+
+time =
+
+        2019           8          15           8          15          14
+
+580000 draws saved
+Elapsed time is 63084.315927 seconds.
+completion rate (%): 29
+acceptance rate (%): 0.084483
+indeterminancy rate (%): 54.7286
+rate of invalid likelihood (%): 0.017586
+
+time =
+
+        2019           8          15           8          51          35
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+600000 draws saved
+Elapsed time is 65363.903784 seconds.
+completion rate (%): 30
+acceptance rate (%): 0.081667
+indeterminancy rate (%): 54.7313
+rate of invalid likelihood (%): 0.017333
+
+time =
+
+        2019           8          15           9          29          35
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+620000 draws saved
+Elapsed time is 67540.176941 seconds.
+completion rate (%): 31
+acceptance rate (%): 0.079194
+indeterminancy rate (%): 54.7142
+rate of invalid likelihood (%): 0.017419
+
+time =
+
+        2019           8          15          10           5          51
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+640000 draws saved
+Elapsed time is 69691.801341 seconds.
+completion rate (%): 32
+acceptance rate (%): 0.076719
+indeterminancy rate (%): 54.6997
+rate of invalid likelihood (%): 0.017969
+
+time =
+
+        2019           8          15          10          41          43
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+660000 draws saved
+Elapsed time is 72038.872840 seconds.
+completion rate (%): 33
+acceptance rate (%): 0.074545
+indeterminancy rate (%): 54.9168
+rate of invalid likelihood (%): 0.017727
+
+time =
+
+        2019           8          15          11          20          50
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+680000 draws saved
+Elapsed time is 74383.423711 seconds.
+completion rate (%): 34
+acceptance rate (%): 0.072353
+indeterminancy rate (%): 55.1081
+rate of invalid likelihood (%): 0.017647
+
+time =
+
+        2019           8          15          11          59          54
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+700000 draws saved
+Elapsed time is 76739.991203 seconds.
+completion rate (%): 35
+acceptance rate (%): 0.070286
+indeterminancy rate (%): 55.3189
+rate of invalid likelihood (%): 0.017857
+
+time =
+
+        2019           8          15          12          39          11
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+720000 draws saved
+Elapsed time is 79094.281118 seconds.
+completion rate (%): 36
+acceptance rate (%): 0.068333
+indeterminancy rate (%): 55.5051
+rate of invalid likelihood (%): 0.017778
+
+time =
+
+        2019           8          15          13          18          25
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+740000 draws saved
+Elapsed time is 81353.268580 seconds.
+completion rate (%): 37
+acceptance rate (%): 0.066622
+indeterminancy rate (%): 55.5765
+rate of invalid likelihood (%): 0.017568
+
+time =
+
+        2019           8          15          13          56           4
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+760000 draws saved
+Elapsed time is 83556.698547 seconds.
+completion rate (%): 38
+acceptance rate (%): 0.065
+indeterminancy rate (%): 55.5683
+rate of invalid likelihood (%): 0.017237
+
+time =
+
+        2019           8          15          14          32          48
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+780000 draws saved
+Elapsed time is 85739.042397 seconds.
+completion rate (%): 39
+acceptance rate (%): 0.06359
+indeterminancy rate (%): 55.5371
+rate of invalid likelihood (%): 0.017436
+
+time =
+
+        2019           8          15          15           9          10
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+800000 draws saved
+Elapsed time is 87965.860655 seconds.
+completion rate (%): 40
+acceptance rate (%): 0.062125
+indeterminancy rate (%): 55.5649
+rate of invalid likelihood (%): 0.01725
+
+time =
+
+        2019           8          15          15          46          17
+
+820000 draws saved
+Elapsed time is 90207.314010 seconds.
+completion rate (%): 41
+acceptance rate (%): 0.06061
+indeterminancy rate (%): 55.5915
+rate of invalid likelihood (%): 0.016829
+
+time =
+
+        2019           8          15          16          23          38
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+840000 draws saved
+Elapsed time is 92470.860456 seconds.
+completion rate (%): 42
+acceptance rate (%): 0.059167
+indeterminancy rate (%): 55.6414
+rate of invalid likelihood (%): 0.016667
+
+time =
+
+        2019           8          15          17           1          22
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+860000 draws saved
+Elapsed time is 94728.727046 seconds.
+completion rate (%): 43
+acceptance rate (%): 0.057791
+indeterminancy rate (%): 55.6814
+rate of invalid likelihood (%): 0.016512
+
+time =
+
+        2019           8          15          17          39           0
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+880000 draws saved
+Elapsed time is 96974.011494 seconds.
+completion rate (%): 44
+acceptance rate (%): 0.056477
+indeterminancy rate (%): 55.7098
+rate of invalid likelihood (%): 0.016364
+
+time =
+
+        2019           8          15          18          16          25
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+900000 draws saved
+Elapsed time is 99224.131556 seconds.
+completion rate (%): 45
+acceptance rate (%): 0.055222
+indeterminancy rate (%): 55.7486
+rate of invalid likelihood (%): 0.016111
+
+time =
+
+        2019           8          15          18          53          55
+
+920000 draws saved
+Elapsed time is 101476.256433 seconds.
+completion rate (%): 46
+acceptance rate (%): 0.054022
+indeterminancy rate (%): 55.7818
+rate of invalid likelihood (%): 0.015761
+
+time =
+
+        2019           8          15          19          31          28
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+940000 draws saved
+Elapsed time is 103738.622638 seconds.
+completion rate (%): 47
+acceptance rate (%): 0.052872
+indeterminancy rate (%): 55.8319
+rate of invalid likelihood (%): 0.015532
+
+time =
+
+        2019           8          15          20           9          10
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+960000 draws saved
+Elapsed time is 105982.545024 seconds.
+completion rate (%): 48
+acceptance rate (%): 0.051771
+indeterminancy rate (%): 55.859
+rate of invalid likelihood (%): 0.015417
+
+time =
+
+        2019           8          15          20          46          34
+
+980000 draws saved
+Elapsed time is 108234.084915 seconds.
+completion rate (%): 49
+acceptance rate (%): 0.050714
+indeterminancy rate (%): 55.8882
+rate of invalid likelihood (%): 0.015102
+
+time =
+
+        2019           8          15          21          24           5
+
+1000000 draws saved
+Elapsed time is 110476.581889 seconds.
+completion rate (%): 50
+acceptance rate (%): 0.0497
+indeterminancy rate (%): 55.9101
+rate of invalid likelihood (%): 0.0148
+
+time =
+
+        2019           8          15          22           1          28
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+1020000 draws saved
+Elapsed time is 112731.318790 seconds.
+completion rate (%): 51
+acceptance rate (%): 0.048725
+indeterminancy rate (%): 55.9403
+rate of invalid likelihood (%): 0.014608
+
+time =
+
+        2019           8          15          22          39           3
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+1040000 draws saved
+Elapsed time is 114983.929112 seconds.
+completion rate (%): 52
+acceptance rate (%): 0.047788
+indeterminancy rate (%): 55.972
+rate of invalid likelihood (%): 0.014423
+
+time =
+
+        2019           8          15          23          16          35
+
+1060000 draws saved
+Elapsed time is 117233.051972 seconds.
+completion rate (%): 53
+acceptance rate (%): 0.046887
+indeterminancy rate (%): 56.0008
+rate of invalid likelihood (%): 0.014151
+
+time =
+
+        2019           8          15          23          54           5
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+1080000 draws saved
+Elapsed time is 119484.595504 seconds.
+completion rate (%): 54
+acceptance rate (%): 0.046019
+indeterminancy rate (%): 56.0288
+rate of invalid likelihood (%): 0.014074
+
+time =
+
+        2019           8          16           0          31          36
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+1100000 draws saved
+Elapsed time is 121730.101317 seconds.
+completion rate (%): 55
+acceptance rate (%): 0.045182
+indeterminancy rate (%): 56.0493
+rate of invalid likelihood (%): 0.013909
+
+time =
+
+        2019           8          16           1           9           2
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+1120000 draws saved
+Elapsed time is 123984.008777 seconds.
+completion rate (%): 56
+acceptance rate (%): 0.044375
+indeterminancy rate (%): 56.0793
+rate of invalid likelihood (%): 0.01375
+
+time =
+
+        2019           8          16           1          46          36
+
+1140000 draws saved
+Elapsed time is 126228.683982 seconds.
+completion rate (%): 57
+acceptance rate (%): 0.043596
+indeterminancy rate (%): 56.0975
+rate of invalid likelihood (%): 0.013509
+
+time =
+
+        2019           8          16           2          24           0
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+1160000 draws saved
+Elapsed time is 128486.001108 seconds.
+completion rate (%): 58
+acceptance rate (%): 0.042845
+indeterminancy rate (%): 56.1184
+rate of invalid likelihood (%): 0.013534
+
+time =
+
+        2019           8          16           3           1          38
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+1180000 draws saved
+Elapsed time is 130734.540613 seconds.
+completion rate (%): 59
+acceptance rate (%): 0.042119
+indeterminancy rate (%): 56.1358
+rate of invalid likelihood (%): 0.01339
+
+time =
+
+        2019           8          16           3          39           6
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+1200000 draws saved
+Elapsed time is 132998.434920 seconds.
+completion rate (%): 60
+acceptance rate (%): 0.041417
+indeterminancy rate (%): 56.1658
+rate of invalid likelihood (%): 0.013333
+
+time =
+
+        2019           8          16           4          16          50
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+1220000 draws saved
+Elapsed time is 135256.216584 seconds.
+completion rate (%): 61
+acceptance rate (%): 0.040738
+indeterminancy rate (%): 56.1875
+rate of invalid likelihood (%): 0.013361
+
+time =
+
+        2019           8          16           4          54          28
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+1240000 draws saved
+Elapsed time is 137517.538443 seconds.
+completion rate (%): 62
+acceptance rate (%): 0.040081
+indeterminancy rate (%): 56.2129
+rate of invalid likelihood (%): 0.013226
+
+time =
+
+        2019           8          16           5          32           9
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+1260000 draws saved
+Elapsed time is 139775.050747 seconds.
+completion rate (%): 63
+acceptance rate (%): 0.039444
+indeterminancy rate (%): 56.2342
+rate of invalid likelihood (%): 0.013095
+
+time =
+
+        2019           8          16           6           9          47
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+1280000 draws saved
+Elapsed time is 142016.825521 seconds.
+completion rate (%): 64
+acceptance rate (%): 0.038984
+indeterminancy rate (%): 56.2357
+rate of invalid likelihood (%): 0.013203
+
+time =
+
+        2019           8          16           6          47           9
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+1300000 draws saved
+Elapsed time is 144240.401200 seconds.
+completion rate (%): 65
+acceptance rate (%): 0.038385
+indeterminancy rate (%): 56.221
+rate of invalid likelihood (%): 0.013462
+
+time =
+
+        2019           8          16           7          24          12
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+1320000 draws saved
+Elapsed time is 146450.150914 seconds.
+completion rate (%): 66
+acceptance rate (%): 0.037803
+indeterminancy rate (%): 56.212
+rate of invalid likelihood (%): 0.013561
+
+time =
+
+        2019           8          16           8           1           2
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+1340000 draws saved
+Elapsed time is 148668.408803 seconds.
+completion rate (%): 67
+acceptance rate (%): 0.037239
+indeterminancy rate (%): 56.2092
+rate of invalid likelihood (%): 0.013507
+
+time =
+
+        2019           8          16           8          38           1
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+1360000 draws saved
+Elapsed time is 150877.699662 seconds.
+completion rate (%): 68
+acceptance rate (%): 0.036691
+indeterminancy rate (%): 56.2021
+rate of invalid likelihood (%): 0.013676
+
+time =
+
+        2019           8          16           9          14          50
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+1380000 draws saved
+Elapsed time is 153089.334596 seconds.
+completion rate (%): 69
+acceptance rate (%): 0.036159
+indeterminancy rate (%): 56.1983
+rate of invalid likelihood (%): 0.013986
+
+time =
+
+        2019           8          16           9          51          42
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+1400000 draws saved
+Elapsed time is 155297.591992 seconds.
+completion rate (%): 70
+acceptance rate (%): 0.035643
+indeterminancy rate (%): 56.1971
+rate of invalid likelihood (%): 0.013929
+
+time =
+
+        2019           8          16          10          28          30
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+1420000 draws saved
+Elapsed time is 157505.749006 seconds.
+completion rate (%): 71
+acceptance rate (%): 0.035141
+indeterminancy rate (%): 56.1918
+rate of invalid likelihood (%): 0.014225
+
+time =
+
+        2019           8          16          11           5          18
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+1440000 draws saved
+Elapsed time is 159706.119534 seconds.
+completion rate (%): 72
+acceptance rate (%): 0.034653
+indeterminancy rate (%): 56.1758
+rate of invalid likelihood (%): 0.014306
+
+time =
+
+        2019           8          16          11          41          58
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+1460000 draws saved
+Elapsed time is 161912.166110 seconds.
+completion rate (%): 73
+acceptance rate (%): 0.034178
+indeterminancy rate (%): 56.1668
+rate of invalid likelihood (%): 0.014178
+
+time =
+
+        2019           8          16          12          18          44
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+1480000 draws saved
+Elapsed time is 164119.573441 seconds.
+completion rate (%): 74
+acceptance rate (%): 0.033716
+indeterminancy rate (%): 56.1622
+rate of invalid likelihood (%): 0.014189
+
+time =
+
+        2019           8          16          12          55          32
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+1500000 draws saved
+Elapsed time is 166343.885789 seconds.
+completion rate (%): 75
+acceptance rate (%): 0.033267
+indeterminancy rate (%): 56.1633
+rate of invalid likelihood (%): 0.014467
+
+time =
+
+        2019           8          16          13          32          36
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+1520000 draws saved
+Elapsed time is 168555.868568 seconds.
+completion rate (%): 76
+acceptance rate (%): 0.032829
+indeterminancy rate (%): 56.1556
+rate of invalid likelihood (%): 0.014474
+
+time =
+
+        2019           8          16          14           9          28
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+1540000 draws saved
+Elapsed time is 170769.827729 seconds.
+completion rate (%): 77
+acceptance rate (%): 0.032403
+indeterminancy rate (%): 56.152
+rate of invalid likelihood (%): 0.014481
+
+time =
+
+        2019           8          16          14          46          22
+
+1560000 draws saved
+Elapsed time is 172974.196783 seconds.
+completion rate (%): 78
+acceptance rate (%): 0.031987
+indeterminancy rate (%): 56.1483
+rate of invalid likelihood (%): 0.014295
+
+time =
+
+        2019           8          16          15          23           7
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+1580000 draws saved
+Elapsed time is 175167.855251 seconds.
+completion rate (%): 79
+acceptance rate (%): 0.031646
+indeterminancy rate (%): 56.1359
+rate of invalid likelihood (%): 0.014367
+
+time =
+
+        2019           8          16          15          59          40
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+1600000 draws saved
+Elapsed time is 177399.604733 seconds.
+completion rate (%): 80
+acceptance rate (%): 0.031313
+indeterminancy rate (%): 56.1508
+rate of invalid likelihood (%): 0.01425
+
+time =
+
+        2019           8          16          16          36          52
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+1620000 draws saved
+Elapsed time is 179618.294437 seconds.
+completion rate (%): 81
+acceptance rate (%): 0.030988
+indeterminancy rate (%): 56.1592
+rate of invalid likelihood (%): 0.014136
+
+time =
+
+        2019           8          16          17          13          51
+
+1640000 draws saved
+Elapsed time is 181782.435635 seconds.
+completion rate (%): 82
+acceptance rate (%): 0.03061
+indeterminancy rate (%): 56.1555
+rate of invalid likelihood (%): 0.013963
+
+time =
+
+        2019           8          16          17          49          55
+
+1660000 draws saved
+Elapsed time is 183951.934801 seconds.
+completion rate (%): 83
+acceptance rate (%): 0.030241
+indeterminancy rate (%): 56.1525
+rate of invalid likelihood (%): 0.013795
+
+time =
+
+        2019           8          16          18          26           5
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+1680000 draws saved
+Elapsed time is 186113.307870 seconds.
+completion rate (%): 84
+acceptance rate (%): 0.029881
+indeterminancy rate (%): 56.1472
+rate of invalid likelihood (%): 0.01375
+
+time =
+
+        2019           8          16          19           2           6
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+1700000 draws saved
+Elapsed time is 188282.450758 seconds.
+completion rate (%): 85
+acceptance rate (%): 0.029529
+indeterminancy rate (%): 56.1456
+rate of invalid likelihood (%): 0.013647
+
+time =
+
+        2019           8          16          19          38          15
+
+1720000 draws saved
+Elapsed time is 190458.364691 seconds.
+completion rate (%): 86
+acceptance rate (%): 0.029186
+indeterminancy rate (%): 56.1475
+rate of invalid likelihood (%): 0.013488
+
+time =
+
+        2019           8          16          20          14          31
+
+1740000 draws saved
+Elapsed time is 192634.144854 seconds.
+completion rate (%): 87
+acceptance rate (%): 0.028851
+indeterminancy rate (%): 56.147
+rate of invalid likelihood (%): 0.013333
+
+time =
+
+        2019           8          16          20          50          47
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+1760000 draws saved
+Elapsed time is 194808.964590 seconds.
+completion rate (%): 88
+acceptance rate (%): 0.028523
+indeterminancy rate (%): 56.1444
+rate of invalid likelihood (%): 0.013239
+
+time =
+
+        2019           8          16          21          27           2
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+1780000 draws saved
+Elapsed time is 196966.058120 seconds.
+completion rate (%): 89
+acceptance rate (%): 0.028202
+indeterminancy rate (%): 56.1326
+rate of invalid likelihood (%): 0.013146
+
+time =
+
+        2019           8          16          22           2          59
+
+1800000 draws saved
+Elapsed time is 199140.521910 seconds.
+completion rate (%): 90
+acceptance rate (%): 0.027889
+indeterminancy rate (%): 56.1327
+rate of invalid likelihood (%): 0.013
+
+time =
+
+        2019           8          16          22          39          14
+
+1820000 draws saved
+Elapsed time is 201306.759655 seconds.
+completion rate (%): 91
+acceptance rate (%): 0.027582
+indeterminancy rate (%): 56.1271
+rate of invalid likelihood (%): 0.012857
+
+time =
+
+        2019           8          16          23          15          20
+
+1840000 draws saved
+Elapsed time is 203478.152187 seconds.
+completion rate (%): 92
+acceptance rate (%): 0.027283
+indeterminancy rate (%): 56.1254
+rate of invalid likelihood (%): 0.012717
+
+time =
+
+        2019           8          16          23          51          31
+
+1860000 draws saved
+Elapsed time is 205645.929636 seconds.
+completion rate (%): 93
+acceptance rate (%): 0.026989
+indeterminancy rate (%): 56.122
+rate of invalid likelihood (%): 0.012581
+
+time =
+
+        2019           8          17           0          27          39
+
+1880000 draws saved
+Elapsed time is 207909.109679 seconds.
+completion rate (%): 94
+acceptance rate (%): 0.026755
+indeterminancy rate (%): 56.1555
+rate of invalid likelihood (%): 0.012447
+
+time =
+
+        2019           8          17           1           5          22
+
+WARNING: Iteration limit of 2500 reached in kalman_initial.m
+1900000 draws saved
+Elapsed time is 210197.974128 seconds.
+completion rate (%): 95
+acceptance rate (%): 0.026474
+indeterminancy rate (%): 56.1985
+rate of invalid likelihood (%): 0.012368
+
+time =
+
+        2019           8          17           1          43          31
+
+1920000 draws saved
+Elapsed time is 212505.617809 seconds.
+completion rate (%): 96
+acceptance rate (%): 0.026198
+indeterminancy rate (%): 56.2496
+rate of invalid likelihood (%): 0.01224
+
+time =
+
+        2019           8          17           2          21          59
+
+1940000 draws saved
+Elapsed time is 214795.025960 seconds.
+completion rate (%): 97
+acceptance rate (%): 0.025928
+indeterminancy rate (%): 56.2896
+rate of invalid likelihood (%): 0.012113
+
+time =
+
+        2019           8          17           3           0           8
+
+1960000 draws saved
+Elapsed time is 217094.605987 seconds.
+completion rate (%): 98
+acceptance rate (%): 0.025663
+indeterminancy rate (%): 56.334
+rate of invalid likelihood (%): 0.01199
+
+time =
+
+        2019           8          17           3          38          28
+
+1980000 draws saved
+Elapsed time is 219375.616860 seconds.
+completion rate (%): 99
+acceptance rate (%): 0.025455
+indeterminancy rate (%): 56.3667
+rate of invalid likelihood (%): 0.011869
+
+time =
+
+        2019           8          17           4          16          29
+
+2000000 draws saved
+Elapsed time is 221564.041429 seconds.
+completion rate (%): 100
+acceptance rate (%): 0.0252
+indeterminancy rate (%): 56.3647
+rate of invalid likelihood (%): 0.01175
+
+time =
+
+        2019           8          17           4          52          57
+
+Elapsed time is 221564.048824 seconds.
+
+marginal =
+
+    0.1000      -Inf
+    0.2000      -Inf
+    0.3000      -Inf
+    0.4000      -Inf
+    0.5000      -Inf
+    0.6000      -Inf
+    0.7000      -Inf
+    0.8000      -Inf
+    0.9000      -Inf
+
+Rule of thumb bandwidth parameter
+Elapsed time is 252458.700515 seconds.
